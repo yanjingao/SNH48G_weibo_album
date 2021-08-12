@@ -41,8 +41,8 @@ def get(i, uid, name, cookies):
 if __name__ == '__main__':
 
     root = 'SNH48所有成员微博图片链接/'
-    UserName = '0084947183828'
-    PassWord = '13307008755'
+    UserName = '此处填写微博账号（尽量用小号）'
+    PassWord = '此处填写微博密码（尽量用小号）'
 
     time_start = time.time()
 
